@@ -1,1 +1,1 @@
-# NaiveBayes
+# AlgoVisual
